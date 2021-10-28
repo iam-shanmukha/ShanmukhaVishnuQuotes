@@ -2,12 +2,12 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://iam-shanmukha.github.io"
+baseurl: "/ShanmukhaVishnuQuotes"
 facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
+twitter_username: "iam_shanmukha"
+instagram_username: "shanmukhavishnu"
+github_username:  "iam-shanmukha"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Shanmukha Vishnu
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Shanmukha Vishnu Quotes Blog
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://iam-shanmukha.github.io/ShanmukhaVishnuQuotes/gallery/"
+  - JOURNAL: "https://iam-shanmukha.github.io/ShanmukhaVishnuQuotes/journal/"
+  - ABOUT: "https://iam-shanmukha.github.io/ShanmukhaVishnuQuotes/about/"
 
 # All translation keys
 translations:
@@ -56,7 +56,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
